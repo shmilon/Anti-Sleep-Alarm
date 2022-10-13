@@ -1,4 +1,24 @@
-# ArduinoProjects
+# Anti Sleep Alarm
+
+## Components used / Material Required
+* Eye blink sensor with Goggles
+* Arduino Nano
+* Vibration Sensor
+* Buzzer
+* SPST switch
+* 9V Battery
+* Mini USB Cable
+* Wire
+
+## Circuit Diagram of Anti-Sleep Alarm Project
+
+![image](https://user-images.githubusercontent.com/36078194/195566451-7d142da1-6008-41a3-8507-b2595e1117f6.png)
+
+
+## Final Assembled Face
+ 
+![image](https://user-images.githubusercontent.com/36078194/195565898-6a4f58bb-9b5b-4f97-aefa-e3b17a5709ee.png)
+
 
 ## code
 ```
